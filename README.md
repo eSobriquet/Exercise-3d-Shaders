@@ -1,25 +1,29 @@
-# Exercise-3d-Shaders
-Exercise for MSCH-C220
+# Project03-JuicyBreakout
 
-The final step adding "juicy" features to a simple brick-breaker game.
+# Project Name
+Juicy brick breaker
 
-
+Description
+a brick breaker with elements to make it more engaging and entertaining 
 ## Implementation
-
-Built using Godot 2022.3.45f
-
+Changing color
+sound effects
+music
+screen shake
+eyes that track the ball
+background
+elements fall when hit
+shadders for main menu
+small ball animation
+pixels when ball hits paddel
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
  * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
- * [Background Elements Redux, provided by kenney.nl](https://kenney.nl/assets/background-elements-redux)
  * [Open Color open source color scheme](https://yeun.github.io/open-color/)
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
- * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
-
 
 ## Future Development
-
-Power-ups, etc.
-
-## Isaac Pittman (eSobriquet)
+more levels, have the bricks match the background
+## Created by
+Isaac Pittman(eSobriquet)
